@@ -11,14 +11,23 @@ body
     vertical-align: baseline;
     padding-top: 70px;
 }
+
 /*
-*
+* Images
 */
-img {
-    width:100%;
-    height:100%;
+#profile
+{
     object-fit: cover;
+    object-position: 25% 15%;
 }
+
+#img-box
+{
+     height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
 /*
  * Horizontal Line
  */
@@ -100,7 +109,6 @@ hr
     overflow: hidden;
 }
 
-
 #bio_text
 {
   overflow:hidden;
@@ -163,13 +171,18 @@ footer
  */
 @media screen and (max-width: 600px)
 {
-   #bio_image
-   {
+    #bio_image
+    {
     float: none;
     width:auto;
     min-width 400px;
     border:0;
     margin: auto;
     display: block;
-  }
+    }
+    #profile
+    {
+    object-fit: cover;
+    object-position: 25% 15%;
+    }
 }
