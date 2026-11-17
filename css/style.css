@@ -1001,3 +1001,8 @@ input::placeholder  {
 .activity .activity-role { font-size: 11px; }
 @media(max-width:950px) { .hero { gap: 32px; } .portrait { max-width: 245px; } .portrait-frame { height: 265px; } .activities { gap: 42px; } .header-inner nav { gap: 17px; } }
 @media(max-width:680px) { .hero { grid-template-columns: 1fr; gap: 28px; } .portrait { max-width: 200px; justify-self: start; } .portrait-frame { height: 215px; } .portrait figcaption { font-size: 8px; } .activities { grid-template-columns: 1fr; gap: 28px; } .header-inner nav { gap: 8px; flex-wrap: wrap; } .header-inner nav a { font-size: 10px; } .cv-download { margin-top: 20px; } }
+
+.supervision-list { margin: 16px 0 24px; padding-left: 20px; }
+.supervision-list li { padding: 4px 0; }
+#supervision h3 { font-size: 17px; color: var(--ink); }
+#supervision h3 + p { margin-top: 12px; }

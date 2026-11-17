@@ -79,3 +79,12 @@ subsequent publication status has not been verified.
 
 The portrait uses the replacement photo supplied by the owner and is displayed
 at a smaller size on desktop and mobile.
+
+## Supervision
+
+The owner confirmed PhD supervision of Antoine Dumoulin, Guillaume Loranchet and
+Aymen Merrouche. The CV and website include these names without inventing dates,
+degree outcomes or formal supervisory designations. Intern supervision covers
+avatar Gaussian representation, and clothing and body animation encoding and
+representation; individual intern names are intentionally not listed. ICME 2025
+remains excluded because the owner confirmed a colleague replaced him.
